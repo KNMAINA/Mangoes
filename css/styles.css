@@ -1,0 +1,27 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+h1 {
+    text-align: center;
+}
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: yellow;
+  }
+  .column {
+    text-align: justify;
+    width: 420px;
+    float: left;
+    margin: 10px;
+  }
+  
+  .main {
+    text-align: justify;
+    width: 500px;
+    float: left;
+    margin: 10px;
+
+  }
